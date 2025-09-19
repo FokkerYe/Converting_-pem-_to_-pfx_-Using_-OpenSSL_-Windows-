@@ -34,7 +34,7 @@ chain.pem → Intermediate/CA certificate chain
 
 A destination folder to save the .pfx file
 
-Example: D:\surveycer\
+Example: D:\ayk\
 
 3. Command to Run
 
